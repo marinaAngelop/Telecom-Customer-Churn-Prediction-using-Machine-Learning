@@ -73,7 +73,7 @@ This project develops and evaluates machine learning models to predict customer 
 ```
 customer-churn-prediction/
 │
-├── Customer_Churn_Prediction.ipynb
+├── Predicting_Customer_Churn_in_a_Telecommunications_Company.ipynb
 └── README.md
 ```
 
